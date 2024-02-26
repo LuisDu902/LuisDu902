@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *   🌍  I'm based in Porto, Portugal
 *   ✉️  You can contact me at [luisdu.s23@gmail.com](mailto:luisdu.s23@gmail.com)
-*   🚀  I'm currently working on [GameOn (Laravel-based web applicatoin)](http://github.com/LuisDu902/gameOn)
+*   🚀  I'm currently working on [GameOn (Laravel-based web application)](http://github.com/LuisDu902/gameOn)
 *   🧠  I'm learning Pygame, Vue.js
 *   🤝  I'm open to collaborating on Artificial Intelligence and Data Science projects
 
