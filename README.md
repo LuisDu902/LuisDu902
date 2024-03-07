@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Luís Du</h1>
 <h3 align="center">3rd year software engineer student @ FEUP</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 *   🌍  I'm based in Porto, Portugal
+
 *   ✉️  You can contact me at [luisdu.s23@gmail.com](mailto:luisdu.s23@gmail.com)
+
 *   🚀  I'm currently working on [GameOn (Laravel-based web application)](http://github.com/LuisDu902/gameOn)
+
 *   🧠  I'm learning Pygame, Vue.js
+
 *   🤝  I'm open to collaborating on Artificial Intelligence and Data Science projects
 </p>
 
@@ -25,6 +28,6 @@
 
 <div width="100%" align="center"><a href="https://github.com/LuisDu902/gameOn" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDu902&repo=gameOn&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/LuisDu902/Matchify" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDu902&repo=Matchify&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
-<br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/LuisDu902/Beast" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDu902&repo=Beast&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/LuisDu902/Bamboozlers" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDu902&repo=Bamboozlers&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
