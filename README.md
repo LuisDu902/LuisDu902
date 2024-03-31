@@ -7,7 +7,7 @@
 
 *   🚀  I'm currently working on [GameOn (Laravel-based web application)](http://github.com/LuisDu902/gameOn)
 
-*   🧠  I'm learning Pygame, Vue.js
+*   🧠  I'm learning Machine Learning, Vue.js
 
 *   🤝  I'm open to collaborating on Artificial Intelligence and Data Science projects
 </p>
