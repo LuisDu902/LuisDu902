@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Luís Du</h1>
-<h3 align="center">2nd year maters student @ FEUP</h3>
 
 *   🌍  I'm based in Porto, Portugal
 
